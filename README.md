@@ -1,7 +1,7 @@
 ## Um pouco da minha trajetória como dev 💪
 
-- Hoje trabalho com consultoria SAP ABAP 🚀
-- Estudando C# 📝
+- Já trabalhei com consultoria SAP ABAP 🚀
+- Atualmente atuo como swe backend e estudando Kotlin 📚
 
 <div align="center">
   <a href="https://github.com/pjusti19">
