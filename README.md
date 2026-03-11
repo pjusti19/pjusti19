@@ -1,7 +1,7 @@
 ## Um pouco da minha trajetória como dev 💪
 
 - Já trabalhei com consultoria SAP ABAP 🚀
-- Atualmente atuo como swe backend e estudando Kotlin 📚
+- Atualmente atuo como swe backend com Kotlin ⚙️
 
 <div align="center">
   <a href="https://github.com/pjusti19">
@@ -15,7 +15,7 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="pedro-abap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg">
   <img align="center" alt="pedro-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="pedro-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="pedro-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="pedro-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="pedro-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
