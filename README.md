@@ -2,6 +2,7 @@
 
 - Já trabalhei com consultoria SAP ABAP 🚀
 - Atualmente atuo como swe backend com Kotlin ⚙️
+- Estudo programação competitiva com C++ 👌
 
 <div align="center">
   <a href="https://github.com/pjusti19">
