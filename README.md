@@ -6,17 +6,15 @@
 
 <div align="center">
   <a href="https://github.com/pjusti19">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=pjusti19&theme=dracula&show_icons=true&rank_icon=github" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pjusti19&layout=compact&theme=dracula&langs_count=8&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats-two-nu.vercel.app/api?username=pjusti19&theme=dracula&show_icons=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs?username=pjusti19&layout=compact&theme=dracula&langs_count=8&card_width=320" />
 </a>
-</div>
-  </a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="pedro-abap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg">
   <img align="center" alt="pedro-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="pedro-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="pedro-cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="pedro-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="pedro-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="pedro-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
