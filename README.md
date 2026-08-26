@@ -1,7 +1,7 @@
 ## Um pouco da minha trajetória como dev 💪
 
 - Já trabalhei com consultoria SAP ABAP 🚀
-- Atualmente atuo como swe backend com Kotlin ⚙️
+- Atualmente atuo como swe backend com Kotlin e Java ⚙️
 - Estudo programação competitiva com C++ 👌
 
 <div align="center">
